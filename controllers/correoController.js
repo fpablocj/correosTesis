@@ -8,8 +8,8 @@ const envioCorreo = (req=request,resp=response)=>{
         host: 'smtp.gmail.com',
         post: 587,
         auth: {
-            user:'pabloxd.2010@gmail.com',
-            pass: 'dbomdofquibjxjfe'
+            user:'informaticaycomputacion2023@gmail.com',
+            pass: 'hcsrayblzbjdvlja'
         },
         tls: {rejectUnauthorized: false}
     });
