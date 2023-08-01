@@ -41,7 +41,7 @@ const envioCorreo = (req=request,resp=response)=>{
             max-width: 600px;
         }
         .greeting {
-            color: #E50E27; /* Color de saludo - Amarillo */
+            color: #e12128; /* Color de saludo */
             text-align: center;
             font-size: 24px;
             font-weight: bold;
